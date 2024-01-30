@@ -6,7 +6,7 @@ Use a for-loop to calculate the sum of all the numbers from 1 to the number ente
 
 ## Example
 
->> Enter a number: <<100
+>> Enter a number: << 100
 >> 5050
 Would you like to continue (y/n)? << y
 >> Enter a number: << 20
